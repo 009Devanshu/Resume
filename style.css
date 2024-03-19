@@ -1,0 +1,38 @@
+.main{
+    
+    width: 60%;
+    margin-left: 20%;
+    border: 2px solid black;
+}
+.name-designation{
+    float: left;
+}
+.details{
+    float: right;
+    margin-top: 18px;
+}
+.nav{
+   margin-left: 20px;
+   margin-right: 20px;
+}
+.experience{
+    margin-left: 20px;
+   margin-right: 20px;
+    clear: left;
+    
+    padding-top: 10px;
+}
+.experience h2{
+    margin-bottom: 0px;
+    font-family: "Playfair Display SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+#company{
+    margin-top: 0px;
+    font-weight: bold;
+}
+.horizon{
+    clear: both;
+}
